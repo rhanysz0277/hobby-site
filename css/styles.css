@@ -2,3 +2,16 @@
     height:606px;
     width:1251px;
 }
+.heroContent{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.arrowLeft{
+    width:63px;
+    height:63px;
+}
+.arrowRight{
+    width:63px;
+    height:63px;
+}
