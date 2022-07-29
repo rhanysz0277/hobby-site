@@ -1,6 +1,7 @@
 .heroImage{
     height:606px;
     width:1251px;
+    object-fit:fill;
 }
 .heroContent{
     display:flex;
