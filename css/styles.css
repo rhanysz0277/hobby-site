@@ -3,6 +3,9 @@
 }
 #heroSection h1{
     padding:2%;
+    background-color:#090826;
+    color:white;
+    margin:0;
 }
 .heroImage{
     height:606px;
@@ -13,6 +16,8 @@
     display:flex;
     justify-content:space-between;
     align-items:center;
+    background-color:#090826;
+    color:white;
 }
 .arrow1{
     text-align:left;
@@ -36,12 +41,20 @@
     height:63px;
     padding-right:20px;
 }
+.cards{
+    background-color:#F2CB05;
+}
+.card-body{
+    background-color:#F2B705;
+}
 .lastsection{
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
     padding:1%;
+    background-color:#260101;
+    color:white;
 }
 .lastimage{
     height:606px;
