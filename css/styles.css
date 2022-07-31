@@ -14,6 +14,18 @@
     justify-content:space-between;
     align-items:center;
 }
+.arrow1{
+    text-align:left;
+}
+.arrow1 p{
+    padding-left:20%;
+}
+.arrow2{
+    text-align:right;
+}
+.arrow2 p{
+    padding-right:20%;
+}
 .arrowLeft{
     width:63px;
     height:63px;
