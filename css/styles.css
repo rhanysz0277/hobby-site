@@ -1,0 +1,82 @@
+#heroSection{
+    text-align: center;
+}
+#heroSection h1{
+    padding:2%;
+    background-color:#090826;
+    color:white;
+    margin:0;
+}
+.heroImage{
+    height:606px;
+    width:1251px;
+    object-fit:cover;
+}
+.heroContent{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:#090826;
+    color:white;
+}
+.arrow1{
+    text-align:left;
+}
+.arrow1 p{
+    padding-left:20%;
+}
+.arrow2{
+    text-align:right;
+}
+.arrow2 p{
+    padding-right:20%;
+}
+.arrowLeft{
+    width:63px;
+    height:63px;
+    padding-left:20px;
+}
+.arrowRight{
+    width:63px;
+    height:63px;
+    padding-right:20px;
+}
+.cards{
+    background-color:#F2CB05;
+}
+.card-body{
+    background-color:#F2B705;
+}
+.lastsection{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding:1%;
+    background-color:#260101;
+    color:white;
+}
+.lastimage{
+    height:606px;
+    width:1251px;
+    object-fit:cover;
+    padding:1%;
+}
+#content h2{
+    text-align:center;
+    padding:2%;
+}
+.lastsection h2{
+    padding:1%;
+}
+.customnav{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration:none;
+}
+.customnav a{
+    color:black;
+    text-decoration:none;
+    font-size:xx-large;
+}
